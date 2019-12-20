@@ -20,5 +20,5 @@ NB.
 
 2. Untuk melakukan perubahan hubungan ke server, bisa edit file html yang ada dalam folder /www
 
-3. Bila ingin mengubah icon, bisa buka folder /res/android
+3. Bila ingin mengubah icon, bisa buka folder /res
 
