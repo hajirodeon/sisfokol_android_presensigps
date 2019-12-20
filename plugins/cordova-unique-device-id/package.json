@@ -1,0 +1,72 @@
+{
+  "_from": "cordova-unique-device-id",
+  "_id": "cordova-unique-device-id@1.3.2",
+  "_inBundle": false,
+  "_integrity": "sha512-CUt+x4xLVZaf2d6Oy0LN18f4KMQ+Nofw0vTVY+djUCuw31yWYFJ8RWRFNeztPE93WK9+E+EheSaQPPGViI+Jtg==",
+  "_location": "/cordova-unique-device-id",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-unique-device-id",
+    "name": "cordova-unique-device-id",
+    "escapedName": "cordova-unique-device-id",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-unique-device-id/-/cordova-unique-device-id-1.3.2.tgz",
+  "_shasum": "f24a92f028485d99350efac52fb2eab92e7e6592",
+  "_spec": "cordova-unique-device-id",
+  "_where": "/media/biasawae/DATA21/PROYEK_ANDROID/sartono_presensi",
+  "author": {
+    "name": "John Doherty",
+    "email": "contact@johndoherty.info",
+    "url": "http://www.johndoherty.info"
+  },
+  "bugs": {
+    "url": "https://github.com/john-doherty/cordova-unique-device-id/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-unique-device-id",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova unique device id (UUID) plugin for Android, iOS and Windows Phone 8. Remains the same after app uninstall.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/john-doherty/cordova-unique-device-id#readme",
+  "keywords": [
+    "phonegap",
+    "cordova",
+    "android",
+    "ios",
+    "wp",
+    "Windows",
+    "phone",
+    "device",
+    "id",
+    "uuid",
+    "unique"
+  ],
+  "license": "MIT",
+  "name": "cordova-unique-device-id",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-doherty/cordova-unique-device-id.git"
+  },
+  "version": "1.3.2"
+}

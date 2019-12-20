@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "PRESENSI",
+  "short_name": "PRESENSI",
+  "version": "sisfokol.presensi.gps",
+  "description": "Presensi Kehadiran Basis GPS untuk Guru/Staff/SISWA",
+  "author": "Agus Muhajir",
+  "icons": [],
+  "start_url": "index.html"
+}

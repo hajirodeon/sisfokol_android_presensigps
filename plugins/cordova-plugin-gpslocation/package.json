@@ -1,0 +1,57 @@
+{
+  "_from": "cordova-plugin-gpslocation",
+  "_id": "cordova-plugin-gpslocation@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-4sbeRx/qVkIDkIorbZze44SPLeo=",
+  "_location": "/cordova-plugin-gpslocation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-gpslocation",
+    "name": "cordova-plugin-gpslocation",
+    "escapedName": "cordova-plugin-gpslocation",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-gpslocation/-/cordova-plugin-gpslocation-1.0.0.tgz",
+  "_shasum": "e2c6de471fea564203908a2b6d9cdee3848f2dea",
+  "_spec": "cordova-plugin-gpslocation",
+  "_where": "/media/biasawae/DATA21/PROYEK_ANDROID/umroh_panitia",
+  "author": {
+    "name": "louisbl"
+  },
+  "bugs": {
+    "url": "https://github.com/louisbl/cordova-plugin-gpslocation/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-gpslocation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Android geolocation plugin using GPS provider",
+  "homepage": "https://github.com/louisbl/cordova-plugin-gpslocation#readme",
+  "keywords": [
+    "cordova",
+    "geolocation",
+    "android",
+    "gps",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-gpslocation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisbl/cordova-plugin-gpslocation.git"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,60 @@
+{
+  "_from": "cordova-plugin-tts",
+  "_id": "cordova-plugin-tts@0.2.3",
+  "_inBundle": false,
+  "_integrity": "sha1-xXQ/bG8lHoy0vEXdM9QamiKZcoc=",
+  "_location": "/cordova-plugin-tts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-tts",
+    "name": "cordova-plugin-tts",
+    "escapedName": "cordova-plugin-tts",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-tts/-/cordova-plugin-tts-0.2.3.tgz",
+  "_shasum": "c5743f6c6f251e8cb4bc45dd33d41a9a22997287",
+  "_spec": "cordova-plugin-tts",
+  "_where": "/media/biasawae/DATA21/PROYEK_ANDROID/umroh_jamaah",
+  "author": {
+    "name": "VILIC VANE"
+  },
+  "bugs": {
+    "url": "https://github.com/vilic/cordova-plugin-tts/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-tts",
+    "platforms": [
+      "ios",
+      "wp8",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Text-to-Speech Plugin",
+  "homepage": "https://github.com/vilic/cordova-plugin-tts#readme",
+  "keywords": [
+    "cordova",
+    "tts",
+    "text-to-speech",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-tts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilic/cordova-plugin-tts.git"
+  },
+  "version": "0.2.3"
+}

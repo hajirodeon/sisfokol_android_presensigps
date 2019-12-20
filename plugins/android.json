@@ -1,0 +1,79 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-googlemaps": {
+      "PLAY_SERVICES_VERSION": "15.0.1",
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-gpslocation": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-tts": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-unique-device-id": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "cordova-plugin-save-image": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    }
+  }
+}

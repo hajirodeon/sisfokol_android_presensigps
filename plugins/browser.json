@@ -1,0 +1,73 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "admin.admin.admin"
+    },
+    "cordova-plugin-googlemaps": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-gpslocation": {
+      "PACKAGE_NAME": "panitia.jasa.umroh"
+    },
+    "cordova-plugin-tts": {
+      "PACKAGE_NAME": "jamaah.jasa.umroh"
+    },
+    "cordova-unique-device-id": {
+      "PACKAGE_NAME": "presensi.masuk.pulang"
+    },
+    "cordova-plugin-save-image": {
+      "PACKAGE_NAME": "cifo.presensi.sekolah"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "admin.admin.admin"
+    }
+  }
+}
